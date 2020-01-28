@@ -1,6 +1,7 @@
 import os
 import time
 import datetime
+import configparser
 
 def doktorisimleri():
 
@@ -61,7 +62,7 @@ def databasebilgialma():
 
 def tarihklasör():
 
-    b = "C:\\Users\\abatox\\Desktop\\Hastane\\"
+    b = 
 
     tarih = time.strftime('%d-%m-%Y/')
     
