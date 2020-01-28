@@ -62,7 +62,7 @@ def databasebilgialma():
 
 def tarihklasör():
 
-    b = 
+    b = yolbul()
 
     tarih = time.strftime('%d-%m-%Y/')
     
